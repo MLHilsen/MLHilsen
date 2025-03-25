@@ -2,7 +2,7 @@
 
 Computer Science student at Georgia State University<br/>
 I'm a third-year student with goals of getting a MS in Computer Science<br/>
-Currently working on some personal projects in order to master Java<br/>
+Currently working on some personal projects in order to master Java and Python<br/>
 
 
 ## 🌐 Socials:
