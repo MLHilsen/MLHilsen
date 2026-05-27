@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Max
 
-Computer Science student at Georgia State University<br/>
-I'm a fourth-year student with goals of getting a MS in Computer Science<br/>
+Computer Science graduate from Georgia State University<br/>
+I'm currently attending Georgia Institute of Technology for a MS in Computer Science<br/>
 Currently working on some personal projects in order to master Java and Python<br/>
 
 
