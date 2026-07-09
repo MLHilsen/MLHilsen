@@ -2,7 +2,6 @@
 
 Computer Science graduate from Georgia State University<br/>
 I'm currently attending Georgia Institute of Technology for a MS in Computer Science<br/>
-Currently working on some personal projects in order to master Java and Python<br/>
 
 
 ## 🌐 Socials:
